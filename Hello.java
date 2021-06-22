@@ -1,7 +1,7 @@
 class Hello
 {
-Public static void main(string arg[])
+Public Static void main(string arg[])
 {
-system.out.println("Hello world");
+System.out.println("Hello world");
 }
 }
